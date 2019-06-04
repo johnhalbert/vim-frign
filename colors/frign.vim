@@ -79,7 +79,7 @@ hi Todo                       guifg=NONE      guibg=NONE        gui=bold      ct
 " Unstyled Syntax Highlighting
 hi Constant                   guifg=NONE      guibg=NONE        gui=NONE      ctermfg=NONE     ctermbg=NONE         cterm=NONE
 hi Identifier                 guifg=NONE      guibg=NONE        gui=NONE      ctermfg=NONE     ctermbg=NONE         cterm=NONE
-hi Statement                  guifg=NONE      guibg=NONE        gui=NONE      ctermfg=NONE     ctermbg=NONE         cterm=NONE
+hi Statement                  guifg=#669bff   guibg=NONE        gui=NONE      ctermfg=69       ctermbg=NONE         cterm=NONE
 hi PreProc                    guifg=NONE      guibg=NONE        gui=NONE      ctermfg=NONE     ctermbg=NONE         cterm=NONE
 hi Type                       guifg=NONE      guibg=NONE        gui=NONE      ctermfg=NONE     ctermbg=NONE         cterm=NONE
 hi Special                    guifg=NONE      guibg=NONE        gui=NONE      ctermfg=NONE     ctermbg=NONE         cterm=NONE
