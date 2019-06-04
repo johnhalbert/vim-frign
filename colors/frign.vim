@@ -9,7 +9,7 @@ if exists('syntax_on')
    syntax reset
 endif
 
-let g:colors_name = 'frign'
+let g:colors_name = 'frign2'
 
 " normal text:               #eeeeee (254)  gray
 " subdued text:              #a8a8a8 (248)  gray
