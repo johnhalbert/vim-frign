@@ -77,9 +77,9 @@ hi Character                  guifg=#ffc159   guibg=NONE        gui=NONE      ct
 hi Todo                       guifg=NONE      guibg=NONE        gui=bold      ctermfg=NONE     ctermbg=NONE         cterm=bold
 
 " Unstyled Syntax Highlighting
-hi Constant                   guifg=NONE      guibg=NONE        gui=NONE      ctermfg=NONE     ctermbg=NONE         cterm=NONE
+hi Constant                   guifg=#669bff   guibg=NONE        gui=bold      ctermfg=69       ctermbg=NONE         cterm=bold
 hi Identifier                 guifg=NONE      guibg=NONE        gui=NONE      ctermfg=NONE     ctermbg=NONE         cterm=NONE
 hi Statement                  guifg=#669bff   guibg=NONE        gui=NONE      ctermfg=69       ctermbg=NONE         cterm=NONE
-hi PreProc                    guifg=NONE      guibg=NONE        gui=NONE      ctermfg=NONE     ctermbg=NONE         cterm=NONE
-hi Type                       guifg=NONE      guibg=NONE        gui=NONE      ctermfg=NONE     ctermbg=NONE         cterm=NONE
-hi Special                    guifg=NONE      guibg=NONE        gui=NONE      ctermfg=NONE     ctermbg=NONE         cterm=NONE
+hi PreProc                    guifg=#669bff   guibg=NONE        gui=NONE      ctermfg=69       ctermbg=NONE         cterm=NONE
+hi Type                       guifg=#669bff   guibg=NONE        gui=bold      ctermfg=69       ctermbg=NONE         cterm=bold
+hi Special                    guifg=#669bff   guibg=NONE        gui=NONE      ctermfg=69       ctermbg=NONE         cterm=NONE
